@@ -1,3 +1,5 @@
+"use client"
+
 import RecurringDatePicker from "@/components/recurring-date-picker/RecurringDatePicker"
 
 export default function Home() {
